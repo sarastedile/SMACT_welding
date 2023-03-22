@@ -1,0 +1,14 @@
+name: test_def
+title:
+username:
+account: weldprotocol23
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 7904200
+bundleId: 6668640
+url: https://weldprotocol23.shinyapps.io/test_def/
+when: 1671822031.20615
+lastSyncTime: 1671822031.20619
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: Analysis of parameters.nb.html|Fixed_vars.R|test_def_before20dec.R

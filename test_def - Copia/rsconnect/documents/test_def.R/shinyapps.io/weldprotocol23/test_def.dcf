@@ -1,0 +1,14 @@
+name: test_def
+title: test_def
+username:
+account: weldprotocol23
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 7904200
+bundleId: 6993025
+url: https://weldprotocol23.shinyapps.io/test_def/
+when: 1679500386.29413
+lastSyncTime: 1679500386.29414
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: .RData|movies.RData|test_def_6marzo.R|test_def_parameters_text.R|20_march

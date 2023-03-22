@@ -1,0 +1,5 @@
+Type of joint;Joint configuration;Thickness of plates [mm];Electrode diameter [mm];Filler rod diameter [mm];Feed rate [mm/s];Gas flow rate [L/min];Filler rod feed rate [mm/s];Pre-flow time [s];Up slope time [s];Initial current [A];Welding/peak current [A];Base current [A];Pulse ON: duty cycle [%];Pulse ON: frequency [Hz];Crater current [A];Down-slope time [s];Post-flow time [s]
+butt;PA;3,2;3,2 or 4;3,2 - 4,8;;4,5;;;;;140-200;;;;;;
+butt;PA;4;3,2 / 4,0 / 4,8;4-4,8;;4,5;;;;;180-250;;;;;;
+butt;PA;4,8;4,0 or 4,8;4,8 - 6,4;;5,6;;;;;250-300;;;;;;
+butt;PA;6,4;4,0 / 4,8 / 6,4;4,8 - 6,4;;5,6;;;;;300-400;;;;;;
